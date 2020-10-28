@@ -9,3 +9,5 @@ Finally the server has a transparent squid proxy that is configured to block cli
 
 When installing your machine it is recommend you have two network cards prior to doing this the first one should be the 192 card and the second should be the 10 card.
 
+All of the non default files are included inside the folders here and have some of my configurations, be sure to check the readme and you can adjust the names, ips, dhcp etc. to suit your system and toplogy needs.
+
