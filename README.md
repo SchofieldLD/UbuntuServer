@@ -1,5 +1,6 @@
 # UbuntuServer
-My Ubtuntu server for college
+My Ubtuntu server for college:
+
 Our server has two network cards one with an ip in the 192.168 configuration that is used to get to the internet and an internal network card with an address of 10.0.0.250
 This Ubtuntu server is configured with dns using an example domain called conconuteater.com
 Aditionally the server has DHCP services that gives out ip's in the 10.0.0.1 scope.
