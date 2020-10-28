@@ -1,1 +1,1 @@
-testing
+UFW is the firewall for the server a few essential ports are allowed such as UDP/TCP, SSH and Squid you can find the full list in the ufw status command to see what I have configured these are only the essentialls therefore if you are adding new things you will need to allow it through the UFW which is rather strict I have it set to only allow essential servives.
