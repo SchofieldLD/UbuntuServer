@@ -1,1 +1,1 @@
-yest
+The DNS Server I configured is using an example domain called coconuteater.com this is not fully qualified and was simply used as an example I highly recommend changing the configurations on this domain to suit your needs.
