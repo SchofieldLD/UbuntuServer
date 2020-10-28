@@ -1,1 +1,1 @@
-test
+The DHCP server is very simple operating with addresses of 10.0.0.1 to around 10.0.0.100 generally it works completely fine and when a client machine is hooked up I was instantly recieving these addresses even after I added a few network cards for testing purposes, the client machine will be going through the ubuntu server to get to the internet so it should have full connectivity.
