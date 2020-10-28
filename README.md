@@ -11,3 +11,6 @@ When installing your machine it is recommend you have two network cards prior to
 
 All of the non default files are included inside the folders here and have some of my configurations, be sure to check the readme and you can adjust the names, ips, dhcp etc. to suit your system and toplogy needs.
 
+Installing and configuring:
+You will need a second network card added to the server and for installation can use a ubuntu server ISO on vmware personally mine was all command line based.
+Make sure to configure your network settings like I listed above my default gateway is 192.168.2.1 yours may be different just something to keep in mind. Everything can be default the only important thing I must stress here is two network cards is essential.
