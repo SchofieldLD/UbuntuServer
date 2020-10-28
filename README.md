@@ -6,3 +6,5 @@ Aditionally the server has DHCP services that gives out ip's in the 10.0.0.1 sco
 The server has a ufw firewall with some basic configurations only allowing essential ports for tasks like ssh and our squid
 Finally the server has a transparent squid proxy that is configured to block clients from an example website that being neverssl.com
 
+When installing your machine it is recommend you have two network cards prior to doing this the first one should be the 192 card and the second should be the 10 card.
+
